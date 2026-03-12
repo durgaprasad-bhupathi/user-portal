@@ -1,0 +1,25 @@
+h1 {
+  text-align: center;
+  color: blue;
+}
+
+div {
+  width: 300px;
+  margin: auto;
+  text-align: center;
+  border: 1px solid gray;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+input {
+  width: 90%;
+  padding: 8px;
+}
+
+button {
+  padding: 8px 15px;
+  margin-top: 10px;
+  cursor: pointer;
+  background-color: lightgray;
+}
